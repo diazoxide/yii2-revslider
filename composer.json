@@ -20,7 +20,6 @@
   ],
   "require": {
     "yiisoft/yii2": "*",
-    "yiidoc/yii2-redactor": "*"
   },
   "repositories": [],
   "autoload": {
