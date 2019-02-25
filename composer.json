@@ -1,0 +1,31 @@
+{
+  "name": "diazoxide/yii2-revslider",
+  "description": "Slider Revolution for Yii2",
+  "type": "yii2-extension",
+  "keywords": [
+    "yii2",
+    "extension",
+    "slider",
+    "revslider",
+    "sliderrevolution",
+    "revolution",
+    "module"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Diazoxide",
+      "email": "diazoxide@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*",
+    "yiidoc/yii2-redactor": "*"
+  },
+  "repositories": []
+  //  "autoload": {
+  //    "psr-4": {
+  //      "diazoxide\\blog\\": ""
+  //    }
+  //  }
+}
