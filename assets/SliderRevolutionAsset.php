@@ -1,6 +1,6 @@
 <?php
 
-namespace diazoxide\revslider\Module\assets;
+namespace diazoxide\revslider\assets;
 
 use yii\web\AssetBundle;
 

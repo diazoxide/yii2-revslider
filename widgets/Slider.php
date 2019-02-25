@@ -2,7 +2,7 @@
 
 namespace diazoxide\revslider\widgets;
 
-use diazoxide\revslider\Module\assets\SliderRevolutionAsset;
+use diazoxide\revslider\assets\SliderRevolutionAsset;
 use yii\bootstrap\Html;
 
 class Slider extends \yii\bootstrap\Widget
