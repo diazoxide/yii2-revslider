@@ -1,6 +1,6 @@
 <?php
 
-namespace diazoxide\revslider\Module\widgets;
+namespace diazoxide\revslider\widgets;
 
 use diazoxide\revslider\Module\assets\SliderRevolutionAsset;
 use yii\bootstrap\Html;
