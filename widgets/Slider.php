@@ -1,8 +1,8 @@
 <?php
 
-namespace diazoxide\SliderRevolution\Module\widgets;
+namespace diazoxide\revslider\Module\widgets;
 
-use diazoxide\SliderRevolution\Module\assets\SliderRevolutionAsset;
+use diazoxide\revslider\Module\assets\SliderRevolutionAsset;
 use yii\bootstrap\Html;
 
 class Slider extends \yii\bootstrap\Widget

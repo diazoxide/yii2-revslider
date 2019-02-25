@@ -1,6 +1,6 @@
 <?php
 
-namespace diazoxide\SliderRevolution\Module\assets;
+namespace diazoxide\revslider\Module\assets;
 
 use yii\web\AssetBundle;
 

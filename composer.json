@@ -22,10 +22,10 @@
     "yiisoft/yii2": "*",
     "yiidoc/yii2-redactor": "*"
   },
-  "repositories": []
-  //  "autoload": {
-  //    "psr-4": {
-  //      "diazoxide\\blog\\": ""
-  //    }
-  //  }
+  "repositories": [],
+  "autoload": {
+    "psr-4": {
+      "diazoxide\\revslider\\": ""
+    }
+  }
 }

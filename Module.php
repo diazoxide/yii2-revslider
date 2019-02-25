@@ -5,7 +5,7 @@
  * Copyright (c) 2018.
  */
 
-namespace diazoxide\SliderRevolution\Module;
+namespace diazoxide\revslider\Module;
 
 
 class Module extends \yii\base\Module
